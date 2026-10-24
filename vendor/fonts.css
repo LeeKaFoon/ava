@@ -1,0 +1,16 @@
+/* 本地字体（离线可用）：仅 latin 子集，中文回退到系统字体 */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('fonts/inter-latin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('fonts/lexend-latin.woff2') format('woff2');
+}
